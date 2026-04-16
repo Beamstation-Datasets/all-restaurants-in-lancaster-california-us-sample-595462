@@ -1,0 +1,12 @@
+{
+  "export_job_id": "07851ace-d01e-4a60-b3b6-33e04bf5beb0",
+  "id_short": 595462,
+  "published_at": "2026-04-16T07:42:02Z",
+  "repo_name": "all-restaurants-in-lancaster-california-us-sample-595462",
+  "sample_asset_name": "beamstation_595462_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/595462/beamstation_595462_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 30,
+  "sample_sha256": "4f8a06914f5dbbca36ac21da2fa48302976a65f14855008eac22a6a70dd83f43",
+  "sample_size_bytes": 108594,
+  "total_records": 310
+}
