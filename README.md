@@ -9,9 +9,9 @@
 | Dataset ID | `595462` |
 | Location | Lancaster |
 | Category | Restaurants |
-| Full dataset size | 310 records |
-| Free sample size | 30 records (9.68%) |
-| Last export | 2026-04-07T12:18:51.772166+00:00 |
+| Full dataset size | 308 records |
+| Free sample size | 30 records (9.74%) |
+| Last export | 2026-04-14T12:11:15.813553+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lancaster-california-us-sample-595462/releases/download/sample-latest/beamstation_595462_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
