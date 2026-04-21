@@ -1,6 +1,6 @@
 # All Restaurants in Lancaster, California, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 32 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `595462` |
 | Location | Lancaster |
 | Category | Restaurants |
-| Full dataset size | 308 records |
-| Free sample size | 30 records (9.74%) |
-| Last export | 2026-04-14T12:11:15.813553+00:00 |
+| Full dataset size | 322 records |
+| Free sample size | 32 records (9.94%) |
+| Last export | 2026-04-21T12:50:48.839410+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lancaster-california-us-sample-595462/releases/download/sample-latest/beamstation_595462_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
